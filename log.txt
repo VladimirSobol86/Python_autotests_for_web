@@ -1,0 +1,15 @@
+2024-02-17 16:22:20 INFO ====== WebDriver manager ======
+2024-02-17 16:22:20 INFO Get LATEST chromedriver version for google-chrome
+2024-02-17 16:22:21 INFO Get LATEST chromedriver version for google-chrome
+2024-02-17 16:22:21 INFO Driver [C:\Users\vsobo\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-17 16:22:22 INFO Test Contact page starting
+2024-02-17 16:22:23 INFO Send testuser-3 to element //*[@id="login"]/div[1]/label/input
+2024-02-17 16:22:23 INFO Send e699891d29 to element //*[@id="login"]/div[2]/label/input
+2024-02-17 16:22:24 INFO Click login button
+2024-02-17 16:22:26 INFO Click contact button
+2024-02-17 16:22:28 INFO We find text Contact us! in error field ('xpath', '//*[@id="app"]/main/div/div/h1')
+2024-02-17 16:22:28 INFO Send Vladimir to element //*[@id="contact"]/div[1]/label/input
+2024-02-17 16:22:28 INFO Send vsobol2@yandex.ru to element //*[@id="contact"]/div[2]/label/input
+2024-02-17 16:22:28 INFO Send I can't authorize on your site to element //*[@id="contact"]/div[3]/label/span/textarea
+2024-02-17 16:22:30 INFO Click send button
+2024-02-17 16:22:32 INFO Message in alert after clicking Send button: Form successfully submitted
